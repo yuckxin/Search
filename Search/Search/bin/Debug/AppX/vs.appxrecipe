@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KEVINPC</Machine>
+    <WindowsUser>kevin</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>885750f7-a37d-4d2e-a575-79be4d59a3ae</PackageIdentityName>
+    <RegisteredManifestChecksum>4DD00E3FC14634D29F34018F1E549E132792BD4DE75FD24AF7802F8CFE1D83B4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>885750f7-a37d-4d2e-a575-79be4d59a3ae_1.0.0.0_neutral__1bs3s1m4g92em</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>885750f7-a37d-4d2e-a575-79be4d59a3ae_1bs3s1m4g92em!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>885750f7-a37d-4d2e-a575-79be4d59a3ae</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=kevin</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\kevin\documents\visual studio 2013\Projects\Search\Search\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-29T07:05:12.517</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\kevin\documents\visual studio 2013\Projects\Search\Search\bin\Debug\Search.exe">
+      <PackagePath>Search.exe</PackagePath>
+      <Modified>2015-08-30T03:06:15.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kevin\documents\visual studio 2013\Projects\Search\Search\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kevin\documents\visual studio 2013\Projects\Search\Search\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kevin\documents\visual studio 2013\Projects\Search\Search\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kevin\documents\visual studio 2013\Projects\Search\Search\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kevin\documents\visual studio 2013\Projects\Search\Search\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-08-29T07:02:06.832</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kevin\documents\visual studio 2013\Projects\Search\Search\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-08-30T03:06:15.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kevin\documents\visual studio 2013\Projects\Search\Search\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-08-29T07:05:11.466</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

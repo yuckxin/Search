@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="Search.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Search"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="Transparent">
+        <Button x:ConnectionId='1' x:Name="btnNavigateUrl" Content="搜索"                                Margin="409,33,0,697" />
+
+        <WebView x:Name="webView" Width="1334" Height="639" HorizontalAlignment="Left" Margin="22,93,0,36" />
+        <TextBox x:ConnectionId='2' x:Name="searchBox" HorizontalAlignment="Left" Margin="22,36,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="374"                             MaxWidth="350" MaxHeight="32"/>
+    </Grid>
+</Page>
+
